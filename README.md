@@ -41,3 +41,7 @@ git clone https://github.com/yourusername/deepfake-defect-detector.git
 cd deepfake-defect-detector
 pip install -r requirements.txt
 streamlit run streamlit_app.py
+
+![image](https://github.com/user-attachments/assets/d7ee6cc7-14c9-4de0-8ad7-d1fb3f5f3eb0)
+
+
