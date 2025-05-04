@@ -31,8 +31,12 @@ This project showcases two machine learning tasks wrapped into one interactive S
 - Enter software description → predict multiple defect labels
 - Model selector for both tasks
 - Shows confidence scores
+![audio_Detection ](https://github.com/user-attachments/assets/708deb55-1b71-4c48-97f8-b3204e42a124)
+![software_prediction](https://github.com/user-attachments/assets/39dc9aa3-2571-402f-b4ff-03973d2d2734)
+
 
 ---
+
 
 ## 🛠️ Installation
 
@@ -42,6 +46,5 @@ cd deepfake-defect-detector
 pip install -r requirements.txt
 streamlit run streamlit_app.py
 
-![image](https://github.com/user-attachments/assets/d7ee6cc7-14c9-4de0-8ad7-d1fb3f5f3eb0)
 
 
